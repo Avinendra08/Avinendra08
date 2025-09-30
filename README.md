@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 My tech-stack: **MERN, JAVA, AWS, MySQL.**
+- 🌱 My tech-stack: **Golang, MERN, JAVA, AWS, MySQL.**
 
-- 🌱 I’m currently learning **Advanced DSA, GoLang, NextJS, Docker.**
+<!-- - 🌱 I’m currently learning **Advanced DSA, NextJS, Docker.** -->
 
 - 📫 How to reach me **avinendra08@gmail.com**
 
